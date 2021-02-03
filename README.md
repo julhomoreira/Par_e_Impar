@@ -1,2 +1,3 @@
 # Par_ou_Impar
- descobrindo o número inteiro
+ descobrindo o números inteiros
+ 
