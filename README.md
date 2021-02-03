@@ -1,2 +1,2 @@
-# Par_e_Impar
+# Par_ou_Impar
  descobrindo o número inteiro
